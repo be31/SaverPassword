@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">SaverPassword</string>
+    <string name="app_name">Saver Passwords</string>
+    <string name="top_string">Save your password!</string>
 </resources>

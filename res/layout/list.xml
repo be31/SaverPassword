@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+        >
+    <LinearLayout
+            style="@style/top_bar_style">
+
+        <TextView
+                style="@style/top_title"/>
+        <Button
+                android:layout_width="60dp"
+                android:layout_height="40dp"
+                android:id="@+id/btnAdd"
+                android:layout_margin="5dp"
+                android:text="Add"
+                android:textColor="#ffffffff"
+                android:background="@drawable/selector"/>
+    </LinearLayout>
+    <ListView
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/listPassword"
+            android:background="#fff"
+            android:divider="#ff5291fb"
+            android:dividerHeight="1dp"
+            />
+</LinearLayout>
