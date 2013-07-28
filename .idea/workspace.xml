@@ -25,25 +25,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="846aacd3-7b42-4ff3-b3f1-671b256a702e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/add.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/list.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/show.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/sveridov/SaverPassword/MainActivity.java" afterPath="$PROJECT_DIR$/src/com/sveridov/SaverPassword/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SaverPassword.iml" afterPath="$PROJECT_DIR$/SaverPassword.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/main.xml" afterPath="$PROJECT_DIR$/res/layout/main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/strings.xml" afterPath="$PROJECT_DIR$/res/values/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/show.xml" afterPath="$PROJECT_DIR$/res/layout/show.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/style_top.xml" afterPath="$PROJECT_DIR$/res/values/style_top.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="SaverPassword.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="846aacd3-7b42-4ff3-b3f1-671b256a702e" time="1373837346954" ignored="false" />
+    <file path="/Dummy.txt" changelist="846aacd3-7b42-4ff3-b3f1-671b256a702e" time="1375034978396" ignored="false" />
     <file path="/fragment.java" changelist="846aacd3-7b42-4ff3-b3f1-671b256a702e" time="1373810396516" ignored="false" />
     <file path="/AndroidManifest.xml" changelist="846aacd3-7b42-4ff3-b3f1-671b256a702e" time="1373810468298" ignored="false" />
-    <file path="/MainActivity.java" changelist="846aacd3-7b42-4ff3-b3f1-671b256a702e" time="1373841815978" ignored="false" />
+    <file path="/MainActivity.java" changelist="846aacd3-7b42-4ff3-b3f1-671b256a702e" time="1374509327830" ignored="false" />
     <file path="/add.xml" changelist="846aacd3-7b42-4ff3-b3f1-671b256a702e" time="1373839350155" ignored="false" />
-    <file path="/show.xml" changelist="846aacd3-7b42-4ff3-b3f1-671b256a702e" time="1373839125488" ignored="false" />
+    <file path="/show.xml" changelist="846aacd3-7b42-4ff3-b3f1-671b256a702e" time="1374506940196" ignored="false" />
     <file path="/layout_items.xml" changelist="846aacd3-7b42-4ff3-b3f1-671b256a702e" time="1373841151784" ignored="false" />
     <file path="/color.xml" changelist="846aacd3-7b42-4ff3-b3f1-671b256a702e" time="1373836629126" ignored="false" />
     <file path="/list.xml" changelist="846aacd3-7b42-4ff3-b3f1-671b256a702e" time="1373838300494" ignored="false" />
@@ -52,6 +47,7 @@
     <file path="/selector.xml" changelist="846aacd3-7b42-4ff3-b3f1-671b256a702e" time="1373837264070" ignored="false" />
     <file path="/item_list.xml" changelist="846aacd3-7b42-4ff3-b3f1-671b256a702e" time="1373837831846" ignored="false" />
     <file path="/selector_item_list.xml" changelist="846aacd3-7b42-4ff3-b3f1-671b256a702e" time="1373838109942" ignored="false" />
+    <file path="/main.xml" changelist="846aacd3-7b42-4ff3-b3f1-671b256a702e" time="1374516882625" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,11 +110,11 @@
     <leaf>
       <file leaf-file-name="show.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/res/layout/show.xml">
-          <provider selected="true" editor-type-id="android-designer">
+          <provider editor-type-id="android-designer">
             <state />
           </provider>
-          <provider editor-type-id="text-editor">
-            <state line="14" column="17" selection-start="519" selection-end="519" vertical-scroll-proportion="-9.52">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="16" selection-start="676" selection-end="676" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -130,7 +126,7 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="15" selection-start="565" selection-end="565" vertical-scroll-proportion="-5.1">
+            <state line="15" column="15" selection-start="565" selection-end="565" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -142,7 +138,7 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="30" selection-start="346" selection-end="346" vertical-scroll-proportion="-2.72">
+            <state line="8" column="30" selection-start="346" selection-end="346" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -150,11 +146,11 @@
       </file>
       <file leaf-file-name="add.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/res/layout/add.xml">
-          <provider selected="true" editor-type-id="android-designer">
+          <provider editor-type-id="android-designer">
             <state />
           </provider>
-          <provider editor-type-id="text-editor">
-            <state line="14" column="44" selection-start="517" selection-end="517" vertical-scroll-proportion="-8.84">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="44" selection-start="517" selection-end="517" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -163,7 +159,7 @@
       <file leaf-file-name="style_top.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/res/values/style_top.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="44" selection-start="1066" selection-end="1066" vertical-scroll-proportion="-14.96">
+            <state line="21" column="40" selection-start="1012" selection-end="1012" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -172,38 +168,38 @@
       <file leaf-file-name="color.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/res/values/color.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="44" selection-start="95" selection-end="95" vertical-scroll-proportion="-1.36">
+            <state line="2" column="44" selection-start="95" selection-end="95" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainActivity.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="MainActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/sveridov/SaverPassword/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="261" column="28" selection-start="9406" selection-end="9406" vertical-scroll-proportion="0.738758">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#onStart#0;class#MainActivity#0" expanded="false" />
-                <element signature="method#getSitesFromDB#0;class#MainActivity#0" expanded="false" />
-                <element signature="e#6219#6227#0" expanded="true" />
-                <element signature="method#hasSite#0;class#MainActivity#0" expanded="false" />
-                <element signature="method#addPassword#0;class#MainActivity#0" expanded="false" />
-                <element signature="method#cleanAddDisplay#0;class#MainActivity#0" expanded="false" />
-                <element signature="method#validatePassword#0;class#MainActivity#0" expanded="false" />
-                <element signature="method#setList#0;class#MainActivity#0" expanded="false" />
-                <element signature="e#9031#9039#0" expanded="true" />
-                <element signature="method#getCountOfSite#0;class#MainActivity#0" expanded="false" />
-                <element signature="method#getSiteFromDB#0;class#MainActivity#0" expanded="false" />
-                <element signature="method#setDialogLogins#0;class#MainActivity#0" expanded="false" />
-                <element signature="e#11242#11250#0" expanded="true" />
-                <element signature="e#11565#11573#0" expanded="true" />
-                <element signature="method#hasSite#1;class#MainActivity#0" expanded="false" />
-                <element signature="method#onBackPressed#0;class#MainActivity#0" expanded="false" />
-                <element signature="class#DBHelper#0;class#MainActivity#0" expanded="false" />
-                <element signature="method#DBHelper#0;class#DBHelper#0;class#MainActivity#0" expanded="false" />
-                <element signature="method#onUpgrade#0;class#DBHelper#0;class#MainActivity#0" expanded="false" />
-              </folding>
+            <state line="174" column="29" selection-start="6400" selection-end="6400" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="64" selection-start="517" selection-end="517" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="36" selection-start="515" selection-end="515" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -214,7 +210,7 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="39" selection-start="901" selection-end="1007" vertical-scroll-proportion="-6.2">
+            <state line="26" column="39" selection-start="901" selection-end="1007" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -244,13 +240,14 @@
         <option value="$PROJECT_DIR$/res/drawable/selector.xml" />
         <option value="$PROJECT_DIR$/res/drawable/selector_item_list.xml" />
         <option value="$PROJECT_DIR$/res/layout/list.xml" />
-        <option value="$PROJECT_DIR$/res/values/style_top.xml" />
         <option value="$PROJECT_DIR$/res/values/color.xml" />
         <option value="$PROJECT_DIR$/res/layout/layout_items.xml" />
         <option value="$PROJECT_DIR$/res/layout/item_list.xml" />
         <option value="$PROJECT_DIR$/res/layout/add.xml" />
+        <option value="$PROJECT_DIR$/res/values/style_top.xml" />
         <option value="$PROJECT_DIR$/res/layout/show.xml" />
         <option value="$PROJECT_DIR$/src/com/sveridov/SaverPassword/MainActivity.java" />
+        <option value="$PROJECT_DIR$/res/layout/main.xml" />
       </list>
     </option>
   </component>
@@ -292,32 +289,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="SaverPassword" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; Android 4.2.2 Platform &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SaverPassword" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; Android 4.2.2 Platform &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -364,24 +335,24 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="OverrideImplement.combined" value="true" />
-    <property name="MemberChooser.sorted" value="false" />
-    <property name="recentsLimit" value="5" />
-    <property name="AndroidLayoutSelectedEditor" value="android-designer" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="0A3A9F901500B010" />
-    <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="OverrideImplement.combined" value="true" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="2.7" />
+    <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="AndroidLayoutSelectedEditor" value="text-editor" />
     <property name="GoToClass.includeLibraries" value="false" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="37320CF7C18A00EC" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -424,6 +395,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -449,19 +433,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -567,31 +538,31 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1320" height="784" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298887" sideWeight="0.7862839" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29888713" sideWeight="0.7862839" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298887" sideWeight="0.83253586" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298887" sideWeight="0.83253586" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32854864" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24960254" sideWeight="0.83253586" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2137161" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1963434" sideWeight="0.83253586" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21303657" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21144675" sideWeight="0.7862839" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2027027" sideWeight="0.7862839" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32854864" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -663,7 +634,104 @@
   <component name="editorHistoryManager">
     <entry file="file://D:/Android/sdk/sources/android-17/android/text/InputType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="90" column="28" selection-start="3322" selection-end="3322" vertical-scroll-proportion="0.3326613">
+        <state line="90" column="28" selection-start="3322" selection-end="3322" vertical-scroll-proportion="0.3326613" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="55" selection-start="159" selection-end="159" vertical-scroll-proportion="-2.04" />
+      </provider>
+    </entry>
+    <entry file="file://D:/Android/sdk/platforms/android-17/data/res/layout/simple_list_item_1.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="675" selection-end="1176" vertical-scroll-proportion="-7.12" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.IdeaIC12/system/compile-server/saverpassword_5ce2109/targets/java-production/SaverPassword/android/generated_sources/aapt/com/sveridov/SaverPassword/R.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="37" selection-start="360" selection-end="360" vertical-scroll-proportion="0.25" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable/selector_item_list.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="51" selection-start="431" selection-end="439" vertical-scroll-proportion="-6.8" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable/selector.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="51" selection-start="748" selection-end="756" vertical-scroll-proportion="-11.36" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/layout_items.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="15" selection-start="565" selection-end="565" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/color.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="44" selection-start="95" selection-end="95" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/add.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="44" selection-start="517" selection-end="517" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/item_list.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="30" selection-start="346" selection-end="346" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/list.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="39" selection-start="901" selection-end="1007" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/style_top.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="40" selection-start="1012" selection-end="1012" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/show.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="16" selection-start="676" selection-end="676" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sveridov/SaverPassword/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="174" column="29" selection-start="6400" selection-end="6400" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -675,143 +743,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="55" selection-start="159" selection-end="159" vertical-scroll-proportion="-2.04">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="14" column="36" selection-start="515" selection-end="515" vertical-scroll-proportion="0.0">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Android/sdk/platforms/android-17/data/res/layout/simple_list_item_1.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="675" selection-end="1176" vertical-scroll-proportion="-7.12">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.IdeaIC12/system/compile-server/saverpassword_5ce2109/targets/java-production/SaverPassword/android/generated_sources/aapt/com/sveridov/SaverPassword/R.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="37" selection-start="360" selection-end="360" vertical-scroll-proportion="0.25">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/drawable/selector_item_list.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="51" selection-start="431" selection-end="439" vertical-scroll-proportion="-6.8">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/drawable/selector.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="51" selection-start="748" selection-end="756" vertical-scroll-proportion="-11.36">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/layout_items.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="15" selection-start="565" selection-end="565" vertical-scroll-proportion="-5.1">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/item_list.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="30" selection-start="346" selection-end="346" vertical-scroll-proportion="-2.72">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/add.xml">
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state line="14" column="44" selection-start="517" selection-end="517" vertical-scroll-proportion="-8.84">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/values/style_top.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="44" selection-start="1066" selection-end="1066" vertical-scroll-proportion="-14.96">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/values/color.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="44" selection-start="95" selection-end="95" vertical-scroll-proportion="-1.36">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/list.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="39" selection-start="901" selection-end="1007" vertical-scroll-proportion="-6.2">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/show.xml">
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state line="14" column="17" selection-start="519" selection-end="519" vertical-scroll-proportion="-9.52">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sveridov/SaverPassword/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="261" column="28" selection-start="9406" selection-end="9406" vertical-scroll-proportion="0.738758">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#onStart#0;class#MainActivity#0" expanded="false" />
-            <element signature="method#getSitesFromDB#0;class#MainActivity#0" expanded="false" />
-            <element signature="e#6219#6227#0" expanded="true" />
-            <element signature="method#hasSite#0;class#MainActivity#0" expanded="false" />
-            <element signature="method#addPassword#0;class#MainActivity#0" expanded="false" />
-            <element signature="method#cleanAddDisplay#0;class#MainActivity#0" expanded="false" />
-            <element signature="method#validatePassword#0;class#MainActivity#0" expanded="false" />
-            <element signature="method#setList#0;class#MainActivity#0" expanded="false" />
-            <element signature="e#9031#9039#0" expanded="true" />
-            <element signature="method#getCountOfSite#0;class#MainActivity#0" expanded="false" />
-            <element signature="method#getSiteFromDB#0;class#MainActivity#0" expanded="false" />
-            <element signature="method#setDialogLogins#0;class#MainActivity#0" expanded="false" />
-            <element signature="e#11242#11250#0" expanded="true" />
-            <element signature="e#11565#11573#0" expanded="true" />
-            <element signature="method#hasSite#1;class#MainActivity#0" expanded="false" />
-            <element signature="method#onBackPressed#0;class#MainActivity#0" expanded="false" />
-            <element signature="class#DBHelper#0;class#MainActivity#0" expanded="false" />
-            <element signature="method#DBHelper#0;class#DBHelper#0;class#MainActivity#0" expanded="false" />
-            <element signature="method#onUpgrade#0;class#DBHelper#0;class#MainActivity#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>

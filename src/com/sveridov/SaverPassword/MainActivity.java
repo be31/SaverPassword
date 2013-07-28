@@ -10,7 +10,6 @@ import android.os.Bundle;
 import android.text.InputType;
 import android.util.Log;
 import android.view.View;
-import android.view.ViewGroup;
 import android.widget.*;
 
 import java.util.ArrayList;
@@ -25,7 +24,7 @@ public class MainActivity extends Activity {
     private ListView listLogins;
     private String focusSite;
     private boolean change;
-    private String changeSite, changeLogin, changePassword;
+    private String changeSite, changeLogin;
 
     //List
     private Button btnAdd;
@@ -37,6 +36,7 @@ public class MainActivity extends Activity {
     private EditText etPassword;
     private CheckBox chbShowPassword;
     private Button btnSave;
+    private Button btnDelete;
 
 
     //Show
@@ -64,6 +64,17 @@ public class MainActivity extends Activity {
             }
         });
 
+        btnDelete = (Button) findViewById(R.id.btnDelete);
+        btnDelete.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SQLiteDatabase db = helperDB.getWritableDatabase();
+                db.execSQL("DELETE FROM Passwords WHERE site='"+tvUserSite.getText().toString()+"' AND login='"+tvUserLogin.getText().toString()+"';");
+                ArrayList<String> sites = getSitesFromDB();
+                setList(sites);
+                onBackPressed();
+            }
+        });
         listPassword = (ListView) findViewById(R.id.listPassword);
         listPassword.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
@@ -147,7 +158,6 @@ public class MainActivity extends Activity {
                 etPassword.setText(password);
 
                 changeSite = site;
-                changePassword = password;
                 changeLogin = login;
 
                 change = true;

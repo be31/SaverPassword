@@ -7,10 +7,13 @@
     <LinearLayout
             android:orientation="horizontal"
             style="@style/top_bar_style"
-                >
+            android:gravity="center_vertical|right">
         <TextView
-                style="@style/top_title"
-                />
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Save your password!"
+                android:id="@+id/textView"
+                android:layout_weight="1" android:textColor="#fff" android:gravity="center_horizontal"/>
         <Button
                 android:layout_width="60dp"
                 android:layout_height="40dp"
@@ -19,6 +22,15 @@
                 android:textColor="#ffffffff"
                 android:background="@drawable/selector"
                 android:id="@+id/btnChange"
+                />
+        <Button
+                android:layout_width="60dp"
+                android:layout_height="40dp"
+                android:layout_margin="5dp"
+                android:text="Delete"
+                android:textColor="#ffffffff"
+                android:background="@drawable/selector"
+                android:id="@+id/btnDelete"
                 />
     </LinearLayout>
     <LinearLayout
