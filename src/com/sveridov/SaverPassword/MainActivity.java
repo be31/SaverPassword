@@ -17,6 +17,7 @@ import java.util.Formatter;
 
 public class MainActivity extends Activity {
 
+    public String site, login, password;
     private ViewFlipper flipper;
     private DBHelper helperDB;
     private byte numberDisplay = 1;
@@ -149,9 +150,9 @@ public class MainActivity extends Activity {
         btnChange.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                String site = tvUserSite.getText().toString();
-                String login = tvUserLogin.getText().toString();
-                String password = etUserPassword.getText().toString();
+                 site = tvUserSite.getText().toString();
+                 login = tvUserLogin.getText().toString();
+                 password = etUserPassword.getText().toString();
 
                 etSite.setText(site);
                 etLogin.setText(login);
